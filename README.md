@@ -10,6 +10,19 @@ A simple **Spring Core** application that generates a personalized greeting mess
 - **XML-based Spring Configuration**
 
 ---
+## 📜 Dependencies
+
+Make sure you have the following Spring JAR files in your classpath:
+
+- `spring-beans-6.2.2.jar`
+- `spring-context-6.2.2.jar`
+- `spring-core-6.2.2.jar`
+- `spring-expression-6.2.2.jar`
+- `spring-aop-6.2.2.jar`
+- `spring-context-support-6.2.2.jar`
+- `spring-jcl-6.2.2.jar`
+
+---
 ## 📁 Project Structure
 
 ```
@@ -104,20 +117,6 @@ Good Evening, Raja  // If it's evening
 Good Night, Raja  // If it's night
 ```
 
----
-## 📜 Dependencies
-
-Make sure you have the following Spring JAR files in your classpath:
-
-- `spring-beans-6.2.2.jar`
-- `spring-context-6.2.2.jar`
-- `spring-core-6.2.2.jar`
-- `spring-expression-6.2.2.jar`
-- `spring-aop-6.2.2.jar`
-- `spring-context-support-6.2.2.jar`
-- `spring-jcl-6.2.2.jar`
-
----
 ## 📌 Key Takeaways
 
 ✅ **Spring handles object creation and dependency management automatically.**

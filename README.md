@@ -49,8 +49,6 @@ This project demonstrates how **Spring Dependency Injection (DI)** is used to in
    - Defines multiple `LocalDateTime` beans with different timestamps.
    - Enables **Component Scanning** to auto-detect and register `@Component` annotated beans.
    - Demonstrates **Factory Method Injection** to instantiate `LocalDateTime`.
-
-
 ---
 ## 🔧 Setup & Run
 

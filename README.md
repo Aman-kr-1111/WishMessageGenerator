@@ -1,4 +1,3 @@
-
 # 🎉 WishMessageGenerator
 
 A simple **Spring Core** application that generates a personalized greeting message based on the current time. This project demonstrates **Dependency Injection (DI)** using the **Spring Framework** and highlights different ways to inject dependencies into a bean.
